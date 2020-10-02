@@ -1,3 +1,6 @@
 const food = ['apple', 'pizza', 'pear']
 
-console.log (food[1])
+const [first] = food;
+
+console.log(food[1])
+console.log(first)
