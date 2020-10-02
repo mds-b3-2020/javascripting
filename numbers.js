@@ -1,3 +1,3 @@
-let example = 123456789;
+const example = 123456789;
 
 console.log(example)
